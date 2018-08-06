@@ -13,3 +13,7 @@ The editor is good. The one thing i miss the most from other code editors is the
 The location for this folder is the user-specific data directory for Geany. Merge the files in this repo with `$HOME/.config/geany`
 
 Once copied, select the color scheme from _View > Change Color Scheme.._
+
+#### Screenshot
+
+![Screenshot for Markdown syntax highlighting](https://github.com/aamnah/geany/blob/master/screenshots/markdown.png)
