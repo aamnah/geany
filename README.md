@@ -17,3 +17,10 @@ Once copied, select the color scheme from _View > Change Color Scheme.._
 #### Screenshot
 
 ![Screenshot for Markdown syntax highlighting](https://github.com/aamnah/geany/blob/master/screenshots/markdown.png)
+
+
+#### Details
+
+- The file for Markdown goes in `$HOME/.config/geany/filedefs/`. It is called `filetypes.markdown`
+- The file for Monokai goes in `$HOME/.config/geany/colorschemes/`. It is called `monokai.conf`
+- Documentation about editing the files is available [here](https://www.geany.org/manual/current/index.html)
