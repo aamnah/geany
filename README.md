@@ -24,3 +24,7 @@ Once copied, select the color scheme from _View > Change Color Scheme.._
 - The file for Markdown goes in `$HOME/.config/geany/filedefs/`. It is called `filetypes.markdown`
 - The file for Monokai goes in `$HOME/.config/geany/colorschemes/`. It is called `monokai.conf`
 - Documentation about editing the files is available [here](https://www.geany.org/manual/current/index.html)
+
+#### To Do
+
+- [ ] Write a bash script that takes care of installation and backing up existing files if any. Will probably do it the next time i have to setup Geany or if someone asks for one
