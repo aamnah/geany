@@ -6,7 +6,7 @@ The editor is good. The one thing i miss the most from other code editors is the
 
 #### Includes
 
-- Monokai theme for Geany
+- Monokai theme for Geany [thanks to codebrainz](https://github.com/codebrainz/geany-themes/blob/master/colorschemes/monokai.conf)
 - Blackboard theme (custom) for Markdown files
 
 #### Install
