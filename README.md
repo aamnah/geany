@@ -33,4 +33,5 @@ Once copied, select the color scheme from _View > Change Color Scheme.._
 
 #### To Do
 
-- [ ] Write a bash script that takes care of installation and backing up existing files if any. Will probably do it the next time i have to setup Geany or if someone asks for one
+- [x] Write a bash script that takes care of installation and 
+- [ ] back up (rename) existing files if any before copying over
