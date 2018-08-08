@@ -12,6 +12,12 @@ Geany is good. It's lighteweight and fast, and gets the job done efficiently if 
 #### Install
 The location for this folder is the user-specific data directory for Geany. Merge the files in this repo with `$HOME/.config/geany`
 
+A basic install script is included, it takes the files from this repo and copies the to the user's Geany config dircetory
+
+```bash
+bash ./install.sh
+```
+
 Once copied, select the color scheme from _View > Change Color Scheme.._
 
 #### Screenshot
